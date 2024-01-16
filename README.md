@@ -1,3 +1,7 @@
+## FIX : Psql FATAL: role "root" does not exist docker mediacms
+https://github.com/peter-evans/docker-compose-healthcheck/issues/16
+https://github.com/peter-evans/docker-compose-healthcheck/issues/17
+
 # MediaCMS
 
 [![GitHub license](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://raw.githubusercontent.com/mediacms-io/mediacms/main/LICENSE.txt)
