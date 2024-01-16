@@ -1,4 +1,8 @@
 ## FIX : Psql FATAL: role "root" does not exist docker mediacms
+      "test: ['CMD-SHELL', 'psql -h localhost -U $${POSTGRES_USER} -c select 1 -d $${POSTGRES_DB}']"
+
+
+
 https://github.com/peter-evans/docker-compose-healthcheck/issues/16
 
 
